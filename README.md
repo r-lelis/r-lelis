@@ -1,4 +1,5 @@
-👋 Hi, I'm Lélis 
+👋 Hi, Lélis here.
+
 I'm one of LabCodes's full stack developers. 
 I like to make people laugh with anything. I like pagode and rock-and-roll and I also know how to play guitar,
 besides being an expert in air drumming. Science fiction is also a passion.
